@@ -139,13 +139,13 @@
   </div>
 <hr class="d-print-none"/>
   <div class="work-experience-section px-3 px-lg-4">
-    <h2 class="h3 mb-4">Projects using JAVA</h2>
+    <h2 class="h3 mb-4">Projects</h2>
     <div class="timeline">
       <div class="timeline-card timeline-card-primary card shadow-sm">
         <div class="card-body">
           <div class="h5 mb-1"> Currency converter <span class="text-muted h6">using JAVA</span></div>
-          </*--<div class="text-muted text-small mb-2">May25, 2021 - Dec18, 2022</div>
-          <div>I was worked as a Mortgage loan processor at Mphasis limited company for the past 1.7years.</div>
+          <!-- <div class="text-muted text-small mb-2">May25, 2021 - Dec18, 2022</div> -->
+          <div> With using JAVA program, calculate the currency converter for Dollar to INR & INR to Dollar.</div> 
         </div>
       </div>
        
@@ -222,9 +222,11 @@
           <h3 class="h6">Address</h3>
           <div class="pb-2 text-secondary">G1, Porur, Chennai, Tamilnadu</div>
           <h3 class="h6">Phone</h3>
-          <div class="pb-2 text-secondary">+91-9080285923</div>
+          <div class="pb-2 text-secondary"><a href= "tel:+91-9080285923" style="text-decoration: none;">+91-9080285923</a></div>
           <h3 class="h6">Email</h3>
-          <div class="pb-2 text-secondary">deepthiselva5@gmail.com</div>
+          <div class="pb-2 text-secondary"><a href= "mailto:deepthiselva5@gmail.com" style="text-decoration: none;">deepthiselva5@gmail.com</a></div>
+          <h3 class="h6">Resume</h3>
+          <div class="pb-2 text-secondary"><a href= "https://deepthiselva.github.io/" style="text-decoration: none;">Resume</a></div>
         </div>
       </div>
       <div class="col d-none d-print-block">
